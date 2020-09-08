@@ -1,0 +1,9 @@
+Teusday 9/8:
+
+- join silos for ame
+- check on saw 
+- pr for markdown renderer
+- email team with design changes . markdown renderer and ifeature instead of iextension. 
+-close main toolbar pr
+- modify spliter panel pr
+- update spread sheet to indicate pass off with barry 
